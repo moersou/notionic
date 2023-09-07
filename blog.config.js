@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'Notionic',
-  author: '左蓝',
+  author: 'rama',
   email: 'i@zuolan.me',
   link: 'https://notionic-three-rust.vercel.app/',
   newsletter: 'Notionic Weekly',
