@@ -12,7 +12,7 @@ const BLOG = {
   lightBackground: '#F6F8FA', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#212936', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Notionic in a folder
-  since: , // If leave this empty, current year will be used.
+  since: 2022, // If leave this empty, current year will be used.
   postsPerPage: 10,
   sortByDate: true,
   pagesShow: {
@@ -23,7 +23,7 @@ const BLOG = {
     books: true,
     friends: true
   },
-  showWeChatPay: false,
+  showWeChatPay: true,
   previewImagesEnabled: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateHost: 'og-zl.vercel.app', // The link to generate OG image, don't end with a slash
