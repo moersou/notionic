@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Notionic',
   author: 'rama',
   email: 'i@zuolan.me',
-  link: 'notionic-three-rust.vercel.app',
+  link: 'https://notionic-three-rust.vercel.app',
   newsletter: 'Notionic Weekly',
   description: 'A static blog build on top of Notion and Next.js',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
